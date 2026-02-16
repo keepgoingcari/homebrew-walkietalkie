@@ -1,8 +1,8 @@
 class Walkietalkie < Formula
   desc "Global push-to-talk layer for terminal coding workflows"
   homepage "https://github.com/keepgoingcari/walkietalkie"
-  url "https://github.com/keepgoingcari/walkietalkie/releases/download/v0.1.0/walkietalkie-0.1.0.tar.gz"
-  sha256 "4d76309e55a1439db5c78ba7b514af41ccab7f04ef98339075c61aa7aa5f51bc"
+  url "https://codeload.github.com/keepgoingcari/walkietalkie/tar.gz/refs/tags/v0.1.0"
+  sha256 "45fa27e3a6e628d11f44acdd6ccb861f3c08dc7782254fd56280de753946929b"
   version "0.1.0"
 
   depends_on :macos
